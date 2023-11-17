@@ -1,2 +1,2 @@
 /*
-  Content-Security-Policy: script-src 'self'; frame-ancestors *.mapfre.com *.cloudfront.net localhost app-mapfre: ;
+  Content-Security-Policy: frame-ancestors *.mapfre.com *.cloudfront.net localhost app-mapfre: ;
