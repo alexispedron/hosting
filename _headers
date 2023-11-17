@@ -1,2 +1,2 @@
 /*
-  Content-Security-Policy: frame-ancestors *.mapfre.com *.cloudfront.net http://localhost:4200 mobile-app: ;
+  Content-Security-Policy: frame-ancestors *.mapfre.com *.cloudfront.net http://localhost:4200 https://mobile-app ionic://mobile-app ;
